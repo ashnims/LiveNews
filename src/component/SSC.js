@@ -90,7 +90,7 @@ export const InnerCont = styled.div`
   }
 `;
 export const Image = styled.img`
-  width: 750px;
+  width: 700px;
   object-fit: cover;
   @media screen and (max-width: 768px) {
     width: 650px;

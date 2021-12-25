@@ -1,6 +1,6 @@
 import "./App.css";
 import { Headline } from "./component/Headline";
-import styled, { ThemeProvider } from "styled-components";
+import { ThemeProvider } from "styled-components";
 import { GlobalStyle } from "./component/Global";
 
 function App() {
